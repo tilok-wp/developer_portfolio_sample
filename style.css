@@ -12,6 +12,7 @@ h1 {
 }
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 .top-banner {
     background-image: url(images/top-banner.png);
@@ -34,4 +35,10 @@ section {
     text-transform: uppercase;
     background-image: linear-gradient(orange,red);
 
+}
+
+.resume-section {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right center;
 }
